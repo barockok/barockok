@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there! 👋 I'm Barock
 
-<!--
-**barockok/barockok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Head of Engineering at Gojek, started as a web developer when Web 2.0 was all the rage. Over time, my roles have evolved alongside my passion for technology and teamwork.
 
-Here are some ideas to get you started:
+#### 💻 Tech Journey
+From software engineer to tech lead, and now to an engineering manager, each step in my journey has taught me something new about creating software and leading teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧑‍🤝‍🧑 Team Player
+I get a real kick out of collaborating with other tech enthusiasts. It's the people that make tech exciting!
+
+#### 🌄 Beyond Code
+Off-duty, I swap code for wilderness, either hiking alone or hitting the road with my family for our epic road trips. It's all about balance.
+
+#### 📖 On GitHub
+Take a look around my GitHub to see what I've been up to. Reach out for collaboration or just to chat tech!
+

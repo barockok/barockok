@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm Barock
-- 👀 In love with distributed systems. Currently, building a framework focus on AuthZ for Micro-services.
+- 👀 In love with distributed systems. Currently, ~building a framework focus on AuthZ for Micro-services~, building tools for build high owenership team.
 - 📝 Blog : [barock.dev](https://barock.dev?utm_source=gh-profile-readme)
 - 🐦 Twitter : [barock19](https://x.com/barock19)
 - 👨‍💼 Linkedin : [barock19](https://www.linkedin.com/in/barock19/)
